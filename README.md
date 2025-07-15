@@ -10,9 +10,9 @@ Based on the asteroid game project in boot.dev.
 ### AI usage
 - No AI code was used.
 - AI was mainly used to explore and process ideas/concepts.
-- I overused AI to debug for me. I did very little self debugging which I regret. I wnat to print more and maybe even have a mindset that thinks more defensivly as when it was time for printing, i found it annoying as Id need to wait for a aspecifc condition in the game which takes second and to be honest that way annoying. I assume there are ways to test you code without running the game, like I have heard of unit test? Are they code that run outside of main?Whcih makes me realsie I have never done anything otusdie of main, is that possible?
+- I overused AI to debug for me. I did very little self debugging which I regret. I wnat to print more and maybe even have a mindset that thinks more defensivly as when it was time for printing, i found it annoying as Id need to wait for a specifc condition in the game which might take seconds and to be honest that was annoying. I assume there are ways to test your code without running the game, like I have heard of unit test, are they the solution? Are they code that runs outside of main? Which makes me realise I have never done anything outside of main, is that possible?
 
 
 My personal improvements:
-- I am getting better with nvim, but I am still so bad at touch tying that it makes nvim extra hard.
+- I am getting better with nvim, but I am still so bad at touch tying that it makes nvim hard.
 - 
